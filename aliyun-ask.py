@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python
+﻿#!/usr/bin/env python3
 # coding=utf-8
 # @Time    : 2020/11/10
 # @Author  : psponge
