@@ -1,4 +1,6 @@
 在获取到阿里云 ak-sk 后可直接批量管理并执行命令
+pip install aliyun-python-sdk-core
+pip install aliyun-python-sdk-ecs
 
 使用：
 
