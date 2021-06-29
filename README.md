@@ -2,7 +2,7 @@
 
 使用：
 
-在第 2、76行 AcsClient('ak', 'sk', '%s' % region)
+在第 18、64行 AcsClient('ak', 'sk', '%s' % region)
 
 分别填入 ak，sk 的值如 AcsClient('aaaaaak', 'sssssssk', '%s' % region)即可
 
